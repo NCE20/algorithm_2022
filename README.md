@@ -1,1 +1,1 @@
-# algoritm_2022
+# algorithm
